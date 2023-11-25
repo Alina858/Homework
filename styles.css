@@ -1,25 +1,6 @@
 
 
-h1{
-color:orange ;
-font-family: 'Arial Narrow';
-text-align: center;
-}
 
-p {
-
-line-height: 30px;
-text-align: right;
-font-family: Verdana;
-columns: 3;
-}
-
-ul {
-
-    border-width: 10px;
-    border-style: outset;
-    border-color: aqua;
-}
 
 
 
